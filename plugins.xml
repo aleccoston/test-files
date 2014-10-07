@@ -1,36 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="Bobs-QGIS-plugins.xsl" ?>
-    <plugins>
-        <pyqgis_plugin name="Modified Zoom-to-Point" version="1.1">
-            <description>Modified Zoom-to-Point Plugin (adds elements to the dialog for zoom levels)</description>
-            <homepage>http://www.MappingGeek.ca/QGISPythonPlugins/zoom_to_pointPlugin/ModifiedZoomtoPoint.html</homepage>
-            <qgis_minimum_version>1.0</qgis_minimum_version>
-            <file_name>zoom_to_point_BB.zip</file_name>
-            <author_name>Bob Bruce</author_name>
-            <download_url>http://www.MappingGeek.ca/QGISPythonPlugins/zoom_to_point_BB.zip</download_url>
-        </pyqgis_plugin>
-        <pyqgis_plugin name="Image Clipper" version="1.2">
-            <description>Image Clipper - Quantum GIS Python Plugin for Combining and Clipping Imagery to a User-Selected Rectangle</description>
-            <homepage>http://www.MappingGeek.ca/QGISPythonPlugins/image_clipper/Quantum_GIS_Image_Clipper_Plugin.html</homepage>
-            <qgis_minimum_version>1.1.0</qgis_minimum_version>
-            <file_name>image_clipper.zip</file_name>
-            <author_name>Bob Bruce</author_name>
-            <download_url>http://www.MappingGeek.ca/QGISPythonPlugins/image_clipper.zip</download_url>
-        </pyqgis_plugin>
-        <pyqgis_plugin name="Image Cutter" version="1.1">
-            <description>Image Cutter - Quantum GIS Python Plugin To extract image tiles from a QGIS Image Layer</description>
-            <homepage>http://www.MappingGeek.ca/QGISPythonPlugins/image_cutter/indexInternet.html</homepage>
-            <qgis_minimum_version>1.1.0</qgis_minimum_version>
-            <file_name>image_cutter.zip</file_name>
-            <author_name>Bob Bruce</author_name>
-            <download_url>http://www.MappingGeek.ca/QGISPythonPlugins/image_cutter.zip</download_url>
-        </pyqgis_plugin>
-        <pyqgis_plugin name="GPS Tracker Plugin for Windows" version="1.0">
-            <description>GPS Tracker Plugin for Windows - Quantum GIS Python Plugin for displaying the active GPS position and the track and saving them to SHAPE files in a Windows environment. To run in the standalone version of QGIS, download and install the Python
-for Windows extensions library from: "http://sourceforge.net/projects/pywin32/files/"</description>
-            <homepage>http://www.MappingGeek.ca/QGISPythonPlugins/trackgps/TheQGISGPSTrackerPlugin.html</homepage>
-            <qgis_minimum_version>1.3.0</qgis_minimum_version>
-            <file_name>trackgps.zip</file_name>
-            <author_name>Bob Bruce</author_name>
-            <download_url>http://www.MappingGeek.ca/QGISPythonPlugins/trackgps.zip</download_url>
-        </pyqgis_plugin>
-    </plugins>
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
+<plugins>
+    </pyqgis_plugin><Pyqgis_plugin name = "VectorSelectByPoint2" version = "0.1">
+     <Description> This is the test plugin </ description>
+     <Qgis_minimum_version> 1.0 </ qgis_minimum_version>
+     <File_name> VectorSelectByPoint.zip </ file_name>
+     <Author_name> Alec Coston </ author_name>
+     <Download_url> https://github.com/aleccoston/NTFP-Malnutrition-Projectv2/blob/master/VectorSelectByPoint.zip </ download_url>
+    </ Pyqgis_plugin>
+</plugins>
